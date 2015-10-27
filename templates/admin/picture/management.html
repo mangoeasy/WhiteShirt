@@ -1,0 +1,115 @@
+{include file="../public/header.html"}
+{include file="../public/left.html"}
+<div id="content">
+    <div id="contentDiv">
+        <div id="PerCentDiv">
+            <div class="content-mid" style="overflow:hidden;">
+                <div class="content-mid-head mb10">
+                    <label class="ordersHeadLebal">上传时间：<input class="easyui-datebox w110" name="addtime" value=""/></label>
+                    <label class="ordersHeadLebal">关键字：<input type="text" id="keyword"  placeholder="姓名、手机号码、微信昵称" style="width:300px"></label>
+                    <a href="javascript:void(0)" class="easyui-linkbutton l-btn" iconcls="icon-search" onclick="doSearch()" style="margin-top:12px; margin-left:10px;">查询</a>
+                </div>
+             
+            </div>
+               <div class="content-mid-list">
+                    <table id='picture_list'  cellpadding="0" cellspacing="0"  width="100%" class="table-mid" toolbar="#tb">
+                    </table>
+                </div>
+        </div>
+    </div>
+</div><!--content end-->
+<script type="text/javascript">
+    {literal}
+    $(function(){
+        $("#contentDiv").css("width",$("#content").width()-20)
+        datagridheight('#picture_list',100);
+        loadData();
+    });
+    function doSearch() {
+        $('#picture_list').datagrid({
+            url: 'getPictureList.php',
+            method: "post",
+            queryParams: {
+                addtime: $.trim($('input[name=addtime]').val()),
+                keyword: $('#keyword').val()
+            },
+            title:"照片列表",
+            pageList:[10,20,30,40,50],
+            pagination:true,//分页控件
+            rownumbers:true,//显示行号
+            singleSelect:true,
+            pageSize:30,
+            pageNumber:1
+        });
+    }
+    function deleteone(rowid){
+      if(confirm("确定要删除吗?")){
+    	var ids=[];
+    	ids.push(rowid);
+   	   $.ajax({
+         type: "POST",
+         url:  "deletePicture.php",
+         data: {"ids[]":ids},
+         dataType: 'json',
+         success: function (msg) {
+            if(msg){
+            	alert("删除成功");
+            	 $('#picture_list').datagrid("reload");
+            }else{
+            	alert("删除失败");
+            }
+          }
+      });
+     }
+    }
+      
+    function loadData(greetingsText){
+        $('#picture_list').datagrid({
+            url:'getPictureList.php',
+            method:"post",
+            nowrap: false,
+            title:"照片列表",
+            pageList:[10,20,30,40,50],
+            pagination:true,//分页控件
+            rownumbers:true,//显示行号
+            singleSelect:true,
+            pageSize:30,
+            pageNumber:1,
+            columns:[[
+                {field:'username',title:'姓名',align:'center',width:120},
+                {field:'phone',title:'手机',align:'center',width:120},
+                {field:'addtime',align:'center',title:'上传时间',width:120},
+                {field:'pictureurl',align:'center',title:'上传图片',width:260,formatter:function(value,rowData){
+					if(rowData.pictureurl == ""){
+						return ''; 	
+					}
+                    return "<div><a target='_blank' href="+rowData.pictureurl+"><img  style='padding:6px' width='240px' src="+rowData.pictureurl+" onerror='errorfun(this)'></a></div>";
+                }},
+                {field:'nickname',align:'center',title:'微信昵称',width:100},
+                {field:'weixinheadurl',align:'center',title:'微信头像',width:80,formatter:function(value,rowData){
+                    if(!isNull(rowData.nickname))
+                    {
+                        return "<div><img  style='padding:6px; border-radius:50px;' width='60px' height='60px' src="+rowData.weixinheadurl+"></div>";
+                    }
+                    return "";
+                }},
+                {field:'weixinaddress',align:'center',title:'微信地址',width:240},
+                {field:'opration',align:'center',title:'操作',width:80,formatter:function(value,rowData,rowIndex){
+                    var opration = '<div class="table-mid-cell">';
+                    opration +='<a href="javascript:void(0)" onclick="deleteone('+rowData.id+')">删除</a>';
+                    opration +='</div>';
+                    return opration;
+                }}
+            ]],
+            onLoadSuccess:function(data){
+                $('#picture_list').datagrid('unselectRow');
+            }
+        });
+    }
+   
+function errorfun(o){
+	$(o).attr("src",'error.jpg')	
+}
+ {/literal}
+</script>
+{include file="../public/footer.html"}

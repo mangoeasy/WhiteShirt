@@ -1,0 +1,74 @@
+2015-10-21 04:24:30 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:24:30 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:24:30 [Dpdo] - debug - 执行方法other
+2015-10-21 04:24:30 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:26:49 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:26:49 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:26:49 [Dpdo] - debug - 执行方法other
+2015-10-21 04:26:49 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:26:54 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:26:54 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:26:54 [Dpdo] - debug - 执行方法other
+2015-10-21 04:26:54 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:30:03 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:30:03 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:30:03 [Dpdo] - debug - 执行方法other
+2015-10-21 04:30:03 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:30:05 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:30:05 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:30:05 [Dpdo] - debug - 执行方法other
+2015-10-21 04:30:05 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:33:04 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:33:04 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:33:04 [Dpdo] - debug - 执行方法other
+2015-10-21 04:33:04 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:50:56 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:50:56 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:50:56 [Dpdo] - debug - 执行方法other
+2015-10-21 04:50:56 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:54:37 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:54:37 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:54:37 [Dpdo] - debug - 执行方法other
+2015-10-21 04:54:37 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:54:38 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:54:38 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:54:38 [Dpdo] - debug - 执行方法other
+2015-10-21 04:54:38 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:56:03 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 04:56:03 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:56:03 [Dpdo] - debug - 执行方法other
+2015-10-21 04:56:03 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:56:48 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/upload.php
+2015-10-21 04:56:48 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:56:48 [Dpdo] - debug - 执行方法other
+2015-10-21 04:56:48 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:56:48 [Dpdo] - debug - 执行sqlINSERT INTO photo(`openid`,`pictureurl`,`username`,`phone`,`addtime`,`nickname`,`weixinheadurl`,`weixinaddress`)VALUES('deced9a6d37007d763f4d4ecddc3c9dd','http://192.168.1.114/src2/trunk/BPO/WhiteShirt/upload/other/e86cdd1a5ea40fd047dacb1bef56453c.jpg','ttt','13120985528','2015-10-21 16:56:48','','','')
+2015-10-21 04:56:48 [Dpdo] - debug - 执行方法insert
+2015-10-21 04:56:48 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/sharePage.php?id=34173cb38f07f89ddbebc2ac9128303f&uid=56275350375d4
+2015-10-21 04:56:48 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:56:48 [Dpdo] - debug - 执行方法other
+2015-10-21 04:56:48 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:56:48 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='34173cb38f07f89ddbebc2ac9128303f' AND delete_flag='0'
+2015-10-21 04:56:48 [Dpdo] - debug - 执行方法find
+2015-10-21 04:57:33 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/sharePage.php?id=34173cb38f07f89ddbebc2ac9128303f&uid=56275350375d4
+2015-10-21 04:57:33 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 04:57:33 [Dpdo] - debug - 执行方法other
+2015-10-21 04:57:33 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 04:57:33 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='34173cb38f07f89ddbebc2ac9128303f' AND delete_flag='0'
+2015-10-21 04:57:33 [Dpdo] - debug - 执行方法find
+2015-10-21 08:31:38 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 08:31:38 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 08:31:38 [Dpdo] - debug - 执行方法other
+2015-10-21 08:31:38 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 08:43:23 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 08:43:23 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 08:43:23 [Dpdo] - debug - 执行方法other
+2015-10-21 08:43:23 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 09:24:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 09:24:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 09:24:52 [Dpdo] - debug - 执行方法other
+2015-10-21 09:24:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-21 09:24:55 [getSignPackage] - debug - 加密用的url:http://192.168.1.113/src2/trunk/BPO/WhiteShirt/
+2015-10-21 09:24:55 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-21 09:24:55 [Dpdo] - debug - 执行方法other
+2015-10-21 09:24:55 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8

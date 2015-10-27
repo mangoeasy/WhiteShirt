@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,  maximum-scale=1.0, minimum-scale=1.0" />
+<meta name= "apple-mobile-web-app-capable" content ="yes" />
+<meta name= "apple-mobile-web-app-status-bar-style" content= "black" />
+<title>aolx</title>
+<style type="text/css">
+html{ background-color:#fff; min-height:100%; }
+html{background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#ddd), to(#fff));}
+</style>
+<!--https://code.createjs.com/easeljs-0.8.1.min.js-->
+<script src="js/easeljs-0.8.1.min.js" type="text/javascript"></script>
+<script src="js/tweenjs-0.6.1.min.js" type="text/javascript"></script>
+<script src="js/movieclip-0.8.1.min.js" type="text/javascript"></script>
+<script src="js/preloadjs-0.6.1.min.js" type="text/javascript"></script>
+<script src="ann.js"></script>
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<script>
+
+
+var canvas, stage, exportRoot;
+
+function init() {
+	canvas = document.getElementById("canvas");
+	images = images||{};
+
+	var loader = new createjs.LoadQueue(false);
+	loader.addEventListener("fileload", handleFileLoad);
+	loader.addEventListener("complete", handleComplete);
+	loader.loadManifest(lib.properties.manifest);
+}
+
+function handleFileLoad(evt) {
+	if (evt.item.type == "image") { images[evt.item.id] = evt.result; }
+}
+
+function handleComplete(evt) {
+	exportRoot = new lib.ann();
+
+	stage = new createjs.Stage(canvas);
+	stage.addChild(exportRoot);
+	stage.update();
+
+	createjs.Ticker.setFPS(lib.properties.fps);
+	createjs.Ticker.addEventListener("tick", stage);
+}
+$(function(){
+	var getW = $(window).width();
+	$("#canvas").css({width:getW});
+	
+	//setTimeout(function(){alert(11)},1087*100)
+})
+/*document.getElementById("CanvasAnimate").addEventListener('touchmove', function (e) { 
+     e.preventDefault(); 
+}, false);*/
+
+</script>
+</head>
+
+<body onload="init();">
+<Div style="width:100%; min-height:110%; overflow:hidden;" id="CanvasAnimate">
+	<canvas id="canvas" width="640" height="820"></canvas>
+</Div>
+</body>
+</html>

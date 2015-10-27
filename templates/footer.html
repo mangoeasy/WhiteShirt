@@ -1,0 +1,45 @@
+<script type="text/javascript">
+{literal}
+function orient() {
+	if (window.orientation == 0 || window.orientation == 180) {
+		
+				$("#waring").hide();		
+	
+			return false;
+	}
+	else if (window.orientation == 90 || window.orientation == -90) {
+			
+				$("#waring").show();
+	return false;
+	}
+}
+{/literal}
+</script>
+<div align="center" id="waring" style="display:none; background-color:rgba(0,0,0,0.9); position:absolute; width:100%; left:0; top:0; height:100%; z-index:100000;"><img src="{$static_path}images/landscape.jpg?v={$version}" width="130" style="top:50%; margin-top:-62px; position:absolute; left:50%; margin-left:-65px;" /></div>
+
+
+<script  type="text/javascript">
+{literal}
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?1b3fbb8bfd8a229b2b47cd610dbf53f1";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+$(function(){
+	function hidebd(){
+		if($("img[src='http://eiv.baidu.com/hmt/icon/21.gif']").length!=0){
+			$("img[src='http://eiv.baidu.com/hmt/icon/21.gif']").hide();
+		}else{
+			setTimeout(function(){hidebd();},100);
+		}
+	}
+	var clearbd = setTimeout(function(){hidebd();},100);
+})
+{/literal}
+</script>
+
+</body>
+</html>
+         

@@ -1,0 +1,65 @@
+{include file="header.html"}
+<body>
+<style type="text/css">
+{literal}
+.htmlClass{ background: -webkit-gradient(linear, 0% 0%, 0% 100%,from(#fff), to(#fff));}
+{/literal}
+</style>
+<div class="PageDiv4" style="min-height:100%;">
+
+  <div style="position:relative; left:0; top:0; z-index:1; width:100%;">
+    <div style=" width:90%; margin-left:auto; margin-right:auto;" id="MetImage"><img src="{$photoresult.pictureurl}" width="100%" /></div>
+    <div style=" clear:both;">
+      <Div style="padding-top:0; overflow:hidden; "><img src="{$static_path}images/sharett.png" width="100%" ></Div>
+      
+     {if $type=="wchat"}
+      {if !$isMyPicture}
+          <Div style="overflow:hidden; ">
+            <Div style="width:35%; margin-left:15%; float:left; padding-top:10px;">
+              <div onclick="location.href='{$indexUrl}'"><img src="{$static_path}images/covergirlbtn.png" width="100%" ></div>
+           <!--   <div style="margin-top:0;" onClick="sharePage()"><img src="images/share.png" width="100%" ></div>-->
+              <div style=" margin-top:5px;"><img src="{$static_path}images/logoshare.png" width="100%" /></div>
+            </Div>
+            <Div style="width:20%; margin-left:15%; float:left;">
+              <div><img src="{$static_path}images/gzh.png" width="100%" /></div>
+              <div><img src="{$static_path}images/followtxt.png" width="100%" /></div>
+            </Div>
+          </Div>
+      		{else}
+            <div style="padding-top:10px;"><img src="{$static_path}images/tipsmyshare.png" width="100%" /></div>
+            {/if}
+      <!--微信end-->
+        {else}
+      <!--weibo.com -->
+      <Div style="overflow:hidden; margin-top:10px; ">
+        <Div style="width:32%; margin-left:14%; margin-right:4%;  float:left;">
+          <div onclick="location.href='{$indexUrl}'"><img src="{$static_path}images/covergirlbtn.png" width="100%" ></div>
+        </Div>
+        <Div style="width:32%; margin-left:4%; margin-right:14%;float:left;">
+          <div onclick="location.href='http://www.weibo.com/chicoutletshopping'"><img src="{$static_path}images/weibo.png" width="100%" /></div>
+        </Div>
+
+      </Div>
+  	 <div style=" padding-top:12px;"><img src="{$static_path}images/logoforweibo.png" width="100%" /></div>
+      <!--weibo.com end-->
+      {/if}
+    </div>
+  </div>
+</div>
+{if $type=="wchat" && $isMyPicture }
+<div style="position:fixed;  z-index:999; left:0; top:0;  width:100%; height:100%; background-color:rgba(0,0,0,0.7);" onClick="shareclose()" id="sharepage"><img src="{$static_path}images/fenxiang.png" width="100%" ></div>
+{/if}
+<script type="text/javascript">
+
+{literal}
+$(function(){
+	$("#MetImage").css({'margin-top':$(window).width() * 0.05})	
+})
+function sharePage(){
+	$("#sharepage").show();		
+}
+
+function shareclose(){$("#sharepage").hide();	}
+{/literal}
+</script> 
+{include file="footer.html"} 

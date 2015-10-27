@@ -1,0 +1,4 @@
+2015-06-21 08:49:23 [getSignPackage] - debug - 加密用的url:http://
+2015-06-21 08:49:23 [Dpdo] - debug - 执行sqlset names utf8
+2015-06-21 08:49:23 [Dpdo] - debug - 执行方法other
+2015-06-21 08:49:23 [Dpdo] - debug - 连接字符串mysql:host=www.5adian.com;dbname=meteor;charset=utf8

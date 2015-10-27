@@ -1,0 +1,858 @@
+2015-10-08 11:19:31 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:19:31 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:19:31 [Dpdo] - debug - 执行方法other
+2015-10-08 11:19:31 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:19:38 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:19:38 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:19:38 [Dpdo] - debug - 执行方法other
+2015-10-08 11:19:38 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:20:17 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:20:17 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:20:17 [Dpdo] - debug - 执行方法other
+2015-10-08 11:20:17 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:24:09 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:24:09 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:24:09 [Dpdo] - debug - 执行方法other
+2015-10-08 11:24:09 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:24:23 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:24:23 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:24:23 [Dpdo] - debug - 执行方法other
+2015-10-08 11:24:23 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:25:18 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:25:18 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:25:18 [Dpdo] - debug - 执行方法other
+2015-10-08 11:25:18 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:26:01 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:26:01 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:26:01 [Dpdo] - debug - 执行方法other
+2015-10-08 11:26:01 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:29:08 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:29:08 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:29:08 [Dpdo] - debug - 执行方法other
+2015-10-08 11:29:08 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:29:11 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:29:11 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:29:11 [Dpdo] - debug - 执行方法other
+2015-10-08 11:29:11 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:29:12 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:29:12 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:29:12 [Dpdo] - debug - 执行方法other
+2015-10-08 11:29:12 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 11:31:03 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 11:31:03 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 11:31:03 [Dpdo] - debug - 执行方法other
+2015-10-08 11:31:03 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:08:21 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:08:21 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:08:21 [Dpdo] - debug - 执行方法other
+2015-10-08 12:08:21 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:09:27 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:09:27 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:09:27 [Dpdo] - debug - 执行方法other
+2015-10-08 12:09:27 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:09:28 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:09:28 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:09:28 [Dpdo] - debug - 执行方法other
+2015-10-08 12:09:28 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:09:29 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:09:29 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:09:29 [Dpdo] - debug - 执行方法other
+2015-10-08 12:09:29 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:09:39 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:09:39 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:09:39 [Dpdo] - debug - 执行方法other
+2015-10-08 12:09:39 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:11:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:11:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:11:53 [Dpdo] - debug - 执行方法other
+2015-10-08 12:11:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:13:59 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:13:59 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:13:59 [Dpdo] - debug - 执行方法other
+2015-10-08 12:13:59 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:14:18 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:14:18 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:14:18 [Dpdo] - debug - 执行方法other
+2015-10-08 12:14:18 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:14:23 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:14:23 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:14:23 [Dpdo] - debug - 执行方法other
+2015-10-08 12:14:23 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:16:13 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:16:13 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:16:13 [Dpdo] - debug - 执行方法other
+2015-10-08 12:16:13 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:17:48 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:17:48 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:17:48 [Dpdo] - debug - 执行方法other
+2015-10-08 12:17:48 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 12:18:07 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 12:18:07 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 12:18:07 [Dpdo] - debug - 执行方法other
+2015-10-08 12:18:07 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:32:05 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:32:05 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:32:05 [Dpdo] - debug - 执行方法other
+2015-10-08 01:32:05 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:32:06 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:32:06 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:32:06 [Dpdo] - debug - 执行方法other
+2015-10-08 01:32:06 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:35:36 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:35:36 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:35:36 [Dpdo] - debug - 执行方法other
+2015-10-08 01:35:36 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:35:37 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:35:37 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:35:37 [Dpdo] - debug - 执行方法other
+2015-10-08 01:35:37 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:35:51 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:35:51 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:35:51 [Dpdo] - debug - 执行方法other
+2015-10-08 01:35:51 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:36:15 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:36:15 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:36:15 [Dpdo] - debug - 执行方法other
+2015-10-08 01:36:15 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:36:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:36:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:36:53 [Dpdo] - debug - 执行方法other
+2015-10-08 01:36:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:36:56 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:36:56 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:36:56 [Dpdo] - debug - 执行方法other
+2015-10-08 01:36:56 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:39:32 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:39:32 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:39:32 [Dpdo] - debug - 执行方法other
+2015-10-08 01:39:32 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:40:56 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:40:56 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:40:56 [Dpdo] - debug - 执行方法other
+2015-10-08 01:40:56 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:41:55 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:41:55 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:41:55 [Dpdo] - debug - 执行方法other
+2015-10-08 01:41:55 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:42:12 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:42:12 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:42:12 [Dpdo] - debug - 执行方法other
+2015-10-08 01:42:12 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:42:15 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:42:15 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:42:15 [Dpdo] - debug - 执行方法other
+2015-10-08 01:42:15 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:43:54 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:43:54 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:43:54 [Dpdo] - debug - 执行方法other
+2015-10-08 01:43:54 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:45:16 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:45:16 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:45:16 [Dpdo] - debug - 执行方法other
+2015-10-08 01:45:16 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:45:27 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:45:27 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:45:27 [Dpdo] - debug - 执行方法other
+2015-10-08 01:45:27 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:50:06 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:50:06 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:50:06 [Dpdo] - debug - 执行方法other
+2015-10-08 01:50:06 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:55:12 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:55:12 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:55:12 [Dpdo] - debug - 执行方法other
+2015-10-08 01:55:12 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:56:06 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:56:06 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:56:06 [Dpdo] - debug - 执行方法other
+2015-10-08 01:56:06 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:56:42 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:56:42 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:56:42 [Dpdo] - debug - 执行方法other
+2015-10-08 01:56:42 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:56:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:56:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:56:53 [Dpdo] - debug - 执行方法other
+2015-10-08 01:56:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:56:55 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:56:55 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:56:55 [Dpdo] - debug - 执行方法other
+2015-10-08 01:56:55 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:57:40 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:57:40 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:57:40 [Dpdo] - debug - 执行方法other
+2015-10-08 01:57:40 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:57:44 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:57:44 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:57:44 [Dpdo] - debug - 执行方法other
+2015-10-08 01:57:44 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:57:50 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:57:50 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:57:50 [Dpdo] - debug - 执行方法other
+2015-10-08 01:57:50 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 01:58:10 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 01:58:10 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 01:58:10 [Dpdo] - debug - 执行方法other
+2015-10-08 01:58:10 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:00:10 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:00:10 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:00:10 [Dpdo] - debug - 执行方法other
+2015-10-08 02:00:10 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:00:10 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:00:10 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:00:10 [Dpdo] - debug - 执行方法other
+2015-10-08 02:00:10 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:00:37 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:00:37 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:00:37 [Dpdo] - debug - 执行方法other
+2015-10-08 02:00:37 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:02:42 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:02:42 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:02:42 [Dpdo] - debug - 执行方法other
+2015-10-08 02:02:42 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:02:43 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:02:43 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:02:43 [Dpdo] - debug - 执行方法other
+2015-10-08 02:02:43 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:02:44 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:02:44 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:02:44 [Dpdo] - debug - 执行方法other
+2015-10-08 02:02:44 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:02:48 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:02:48 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:02:48 [Dpdo] - debug - 执行方法other
+2015-10-08 02:02:48 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:03:30 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:03:30 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:03:30 [Dpdo] - debug - 执行方法other
+2015-10-08 02:03:30 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:03:31 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:03:31 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:03:31 [Dpdo] - debug - 执行方法other
+2015-10-08 02:03:31 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:03:58 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:03:58 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:03:58 [Dpdo] - debug - 执行方法other
+2015-10-08 02:03:58 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:04:00 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:04:00 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:04:00 [Dpdo] - debug - 执行方法other
+2015-10-08 02:04:00 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:04:35 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:04:35 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:04:35 [Dpdo] - debug - 执行方法other
+2015-10-08 02:04:35 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:04:44 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:04:44 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:04:44 [Dpdo] - debug - 执行方法other
+2015-10-08 02:04:44 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:04:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:04:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:04:53 [Dpdo] - debug - 执行方法other
+2015-10-08 02:04:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:05:15 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:05:15 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:05:15 [Dpdo] - debug - 执行方法other
+2015-10-08 02:05:15 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:13:06 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:13:06 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:13:06 [Dpdo] - debug - 执行方法other
+2015-10-08 02:13:06 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:13:49 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:13:49 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:13:49 [Dpdo] - debug - 执行方法other
+2015-10-08 02:13:49 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:14:50 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:14:50 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:14:50 [Dpdo] - debug - 执行方法other
+2015-10-08 02:14:50 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:15:02 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:15:02 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:15:02 [Dpdo] - debug - 执行方法other
+2015-10-08 02:15:02 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:15:07 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:15:07 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:15:07 [Dpdo] - debug - 执行方法other
+2015-10-08 02:15:07 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:16:05 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:16:05 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:16:05 [Dpdo] - debug - 执行方法other
+2015-10-08 02:16:05 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:17:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:17:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:17:52 [Dpdo] - debug - 执行方法other
+2015-10-08 02:17:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:32:51 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:32:51 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:32:51 [Dpdo] - debug - 执行方法other
+2015-10-08 02:32:51 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:36:49 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:36:49 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:36:49 [Dpdo] - debug - 执行方法other
+2015-10-08 02:36:49 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:39:55 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:39:55 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:39:55 [Dpdo] - debug - 执行方法other
+2015-10-08 02:39:55 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:41:30 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:41:30 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:41:30 [Dpdo] - debug - 执行方法other
+2015-10-08 02:41:30 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:44:31 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:44:31 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:44:31 [Dpdo] - debug - 执行方法other
+2015-10-08 02:44:31 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:47:59 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:47:59 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:47:59 [Dpdo] - debug - 执行方法other
+2015-10-08 02:47:59 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:48:42 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:48:42 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:48:42 [Dpdo] - debug - 执行方法other
+2015-10-08 02:48:42 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:48:44 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:48:44 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:48:44 [Dpdo] - debug - 执行方法other
+2015-10-08 02:48:44 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:49:36 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:49:36 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:49:36 [Dpdo] - debug - 执行方法other
+2015-10-08 02:49:36 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:55:19 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:55:19 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:55:19 [Dpdo] - debug - 执行方法other
+2015-10-08 02:55:19 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:58:49 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:58:49 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:58:49 [Dpdo] - debug - 执行方法other
+2015-10-08 02:58:49 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 02:59:57 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 02:59:57 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 02:59:57 [Dpdo] - debug - 执行方法other
+2015-10-08 02:59:57 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:01:15 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:01:15 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:01:15 [Dpdo] - debug - 执行方法other
+2015-10-08 03:01:15 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:05:09 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:05:09 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:05:09 [Dpdo] - debug - 执行方法other
+2015-10-08 03:05:09 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:05:09 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:05:09 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:05:09 [Dpdo] - debug - 执行方法other
+2015-10-08 03:05:09 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:05:09 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:05:09 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:05:09 [Dpdo] - debug - 执行方法other
+2015-10-08 03:05:09 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:05:59 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:05:59 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:05:59 [Dpdo] - debug - 执行方法other
+2015-10-08 03:05:59 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:06:40 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:06:40 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:06:40 [Dpdo] - debug - 执行方法other
+2015-10-08 03:06:40 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:09:02 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:09:02 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:09:02 [Dpdo] - debug - 执行方法other
+2015-10-08 03:09:02 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:14:16 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:14:16 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:14:16 [Dpdo] - debug - 执行方法other
+2015-10-08 03:14:16 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:14:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:14:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:14:52 [Dpdo] - debug - 执行方法other
+2015-10-08 03:14:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:15:29 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:15:29 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:15:29 [Dpdo] - debug - 执行方法other
+2015-10-08 03:15:29 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:16:48 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:16:48 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:16:48 [Dpdo] - debug - 执行方法other
+2015-10-08 03:16:48 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:19:03 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:19:03 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:19:03 [Dpdo] - debug - 执行方法other
+2015-10-08 03:19:03 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:20:06 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:20:06 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:20:06 [Dpdo] - debug - 执行方法other
+2015-10-08 03:20:06 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:22:02 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:22:02 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:22:02 [Dpdo] - debug - 执行方法other
+2015-10-08 03:22:02 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:24:43 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:24:43 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:24:43 [Dpdo] - debug - 执行方法other
+2015-10-08 03:24:43 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:25:20 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:25:20 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:25:20 [Dpdo] - debug - 执行方法other
+2015-10-08 03:25:20 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:25:59 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:25:59 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:25:59 [Dpdo] - debug - 执行方法other
+2015-10-08 03:25:59 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:26:25 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:26:25 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:26:25 [Dpdo] - debug - 执行方法other
+2015-10-08 03:26:25 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:26:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:26:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:26:52 [Dpdo] - debug - 执行方法other
+2015-10-08 03:26:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:28:24 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:28:24 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:28:24 [Dpdo] - debug - 执行方法other
+2015-10-08 03:28:24 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:38:12 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:38:12 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:38:12 [Dpdo] - debug - 执行方法other
+2015-10-08 03:38:12 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:40:31 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:40:31 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:40:31 [Dpdo] - debug - 执行方法other
+2015-10-08 03:40:31 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:40:40 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:40:40 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:40:40 [Dpdo] - debug - 执行方法other
+2015-10-08 03:40:40 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:41:33 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:41:33 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:41:33 [Dpdo] - debug - 执行方法other
+2015-10-08 03:41:33 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:42:45 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:42:45 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:42:45 [Dpdo] - debug - 执行方法other
+2015-10-08 03:42:45 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:42:49 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:42:49 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:42:49 [Dpdo] - debug - 执行方法other
+2015-10-08 03:42:49 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:42:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:42:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:42:52 [Dpdo] - debug - 执行方法other
+2015-10-08 03:42:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:43:01 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:43:01 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:43:01 [Dpdo] - debug - 执行方法other
+2015-10-08 03:43:01 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:43:11 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:43:11 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:43:11 [Dpdo] - debug - 执行方法other
+2015-10-08 03:43:11 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:46:33 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:46:33 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:46:33 [Dpdo] - debug - 执行方法other
+2015-10-08 03:46:33 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:47:08 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:47:08 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:47:08 [Dpdo] - debug - 执行方法other
+2015-10-08 03:47:08 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:50:03 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:50:03 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:50:03 [Dpdo] - debug - 执行方法other
+2015-10-08 03:50:03 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:50:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:50:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:50:52 [Dpdo] - debug - 执行方法other
+2015-10-08 03:50:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:51:58 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:51:58 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:51:58 [Dpdo] - debug - 执行方法other
+2015-10-08 03:51:58 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:53:40 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:53:40 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:53:40 [Dpdo] - debug - 执行方法other
+2015-10-08 03:53:40 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:54:54 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:54:54 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:54:54 [Dpdo] - debug - 执行方法other
+2015-10-08 03:54:54 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:54:59 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:54:59 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:54:59 [Dpdo] - debug - 执行方法other
+2015-10-08 03:54:59 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:55:26 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:55:26 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:55:26 [Dpdo] - debug - 执行方法other
+2015-10-08 03:55:26 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:57:47 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:57:47 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:57:47 [Dpdo] - debug - 执行方法other
+2015-10-08 03:57:47 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:58:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:58:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:58:52 [Dpdo] - debug - 执行方法other
+2015-10-08 03:58:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 03:59:14 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 03:59:14 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 03:59:14 [Dpdo] - debug - 执行方法other
+2015-10-08 03:59:14 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:00:13 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:00:13 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:00:13 [Dpdo] - debug - 执行方法other
+2015-10-08 04:00:13 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:00:32 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:00:32 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:00:32 [Dpdo] - debug - 执行方法other
+2015-10-08 04:00:32 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:00:37 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:00:37 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:00:37 [Dpdo] - debug - 执行方法other
+2015-10-08 04:00:37 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:01:20 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:01:20 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:01:20 [Dpdo] - debug - 执行方法other
+2015-10-08 04:01:20 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:02:47 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:02:47 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:02:47 [Dpdo] - debug - 执行方法other
+2015-10-08 04:02:47 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:02:55 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:02:55 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:02:55 [Dpdo] - debug - 执行方法other
+2015-10-08 04:02:55 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:02:57 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:02:57 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:02:57 [Dpdo] - debug - 执行方法other
+2015-10-08 04:02:57 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:04:13 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:04:13 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:04:13 [Dpdo] - debug - 执行方法other
+2015-10-08 04:04:13 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:04:58 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:04:58 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:04:58 [Dpdo] - debug - 执行方法other
+2015-10-08 04:04:58 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:05:08 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:05:08 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:05:08 [Dpdo] - debug - 执行方法other
+2015-10-08 04:05:08 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:05:09 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:05:09 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:05:09 [Dpdo] - debug - 执行方法other
+2015-10-08 04:05:09 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:06:27 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:06:27 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:06:27 [Dpdo] - debug - 执行方法other
+2015-10-08 04:06:27 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:12:45 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:12:45 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:12:45 [Dpdo] - debug - 执行方法other
+2015-10-08 04:12:45 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:15:10 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:15:10 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:15:10 [Dpdo] - debug - 执行方法other
+2015-10-08 04:15:10 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:15:27 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:15:27 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:15:27 [Dpdo] - debug - 执行方法other
+2015-10-08 04:15:27 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:17:36 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:17:36 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:17:36 [Dpdo] - debug - 执行方法other
+2015-10-08 04:17:36 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:18:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:18:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:18:53 [Dpdo] - debug - 执行方法other
+2015-10-08 04:18:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:19:57 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:19:57 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:19:57 [Dpdo] - debug - 执行方法other
+2015-10-08 04:19:57 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:20:08 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:20:08 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:20:08 [Dpdo] - debug - 执行方法other
+2015-10-08 04:20:08 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:21:22 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:21:22 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:21:22 [Dpdo] - debug - 执行方法other
+2015-10-08 04:21:22 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:21:54 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:21:54 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:21:54 [Dpdo] - debug - 执行方法other
+2015-10-08 04:21:54 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:23:13 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:23:13 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:23:13 [Dpdo] - debug - 执行方法other
+2015-10-08 04:23:13 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:24:02 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:24:02 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:24:02 [Dpdo] - debug - 执行方法other
+2015-10-08 04:24:02 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:26:30 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:26:30 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:26:30 [Dpdo] - debug - 执行方法other
+2015-10-08 04:26:30 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:27:31 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:27:31 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:27:31 [Dpdo] - debug - 执行方法other
+2015-10-08 04:27:31 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:28:20 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:28:20 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:28:20 [Dpdo] - debug - 执行方法other
+2015-10-08 04:28:20 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:34:12 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:34:12 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:34:12 [Dpdo] - debug - 执行方法other
+2015-10-08 04:34:12 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:35:50 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:35:50 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:35:50 [Dpdo] - debug - 执行方法other
+2015-10-08 04:35:50 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:35:57 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:35:57 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:35:57 [Dpdo] - debug - 执行方法other
+2015-10-08 04:35:57 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:36:25 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:36:25 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:36:25 [Dpdo] - debug - 执行方法other
+2015-10-08 04:36:25 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:37:06 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:37:06 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:37:06 [Dpdo] - debug - 执行方法other
+2015-10-08 04:37:06 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:39:02 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:39:02 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:39:02 [Dpdo] - debug - 执行方法other
+2015-10-08 04:39:02 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:39:08 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:39:08 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:39:08 [Dpdo] - debug - 执行方法other
+2015-10-08 04:39:08 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:45:29 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:45:29 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:45:29 [Dpdo] - debug - 执行方法other
+2015-10-08 04:45:29 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:47:57 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:47:57 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:47:57 [Dpdo] - debug - 执行方法other
+2015-10-08 04:47:57 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:56:41 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:56:41 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:56:41 [Dpdo] - debug - 执行方法other
+2015-10-08 04:56:41 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:58:06 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:58:06 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:58:06 [Dpdo] - debug - 执行方法other
+2015-10-08 04:58:06 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:58:39 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:58:39 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:58:39 [Dpdo] - debug - 执行方法other
+2015-10-08 04:58:39 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 04:58:55 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 04:58:55 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 04:58:55 [Dpdo] - debug - 执行方法other
+2015-10-08 04:58:55 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:00:39 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:00:39 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:00:39 [Dpdo] - debug - 执行方法other
+2015-10-08 05:00:39 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:01:23 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:01:23 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:01:23 [Dpdo] - debug - 执行方法other
+2015-10-08 05:01:23 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:01:28 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:01:28 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:01:28 [Dpdo] - debug - 执行方法other
+2015-10-08 05:01:28 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:15:37 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:15:37 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:15:37 [Dpdo] - debug - 执行方法other
+2015-10-08 05:15:37 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:16:25 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:16:25 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:16:25 [Dpdo] - debug - 执行方法other
+2015-10-08 05:16:25 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:17:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:17:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:17:53 [Dpdo] - debug - 执行方法other
+2015-10-08 05:17:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:18:18 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:18:18 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:18:18 [Dpdo] - debug - 执行方法other
+2015-10-08 05:18:18 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:22:11 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:22:11 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:22:11 [Dpdo] - debug - 执行方法other
+2015-10-08 05:22:11 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:22:32 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:22:32 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:22:32 [Dpdo] - debug - 执行方法other
+2015-10-08 05:22:32 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:23:03 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:23:03 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:23:03 [Dpdo] - debug - 执行方法other
+2015-10-08 05:23:03 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:24:11 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:24:11 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:24:11 [Dpdo] - debug - 执行方法other
+2015-10-08 05:24:11 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:24:43 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:24:43 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:24:43 [Dpdo] - debug - 执行方法other
+2015-10-08 05:24:43 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:24:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:24:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:24:53 [Dpdo] - debug - 执行方法other
+2015-10-08 05:24:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:25:04 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:25:04 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:25:04 [Dpdo] - debug - 执行方法other
+2015-10-08 05:25:04 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:25:17 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:25:17 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:25:17 [Dpdo] - debug - 执行方法other
+2015-10-08 05:25:17 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:25:30 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:25:30 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:25:30 [Dpdo] - debug - 执行方法other
+2015-10-08 05:25:30 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:25:38 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:25:38 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:25:38 [Dpdo] - debug - 执行方法other
+2015-10-08 05:25:38 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:25:54 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:25:54 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:25:54 [Dpdo] - debug - 执行方法other
+2015-10-08 05:25:54 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:28:25 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:28:25 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:28:25 [Dpdo] - debug - 执行方法other
+2015-10-08 05:28:25 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:28:36 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:28:36 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:28:36 [Dpdo] - debug - 执行方法other
+2015-10-08 05:28:36 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:30:17 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:30:17 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:30:17 [Dpdo] - debug - 执行方法other
+2015-10-08 05:30:17 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:35:12 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:35:12 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:35:12 [Dpdo] - debug - 执行方法other
+2015-10-08 05:35:12 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:35:53 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:35:53 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:35:53 [Dpdo] - debug - 执行方法other
+2015-10-08 05:35:53 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:39:54 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:39:54 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:39:54 [Dpdo] - debug - 执行方法other
+2015-10-08 05:39:54 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:40:30 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:40:30 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:40:30 [Dpdo] - debug - 执行方法other
+2015-10-08 05:40:30 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:41:42 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:41:42 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:41:42 [Dpdo] - debug - 执行方法other
+2015-10-08 05:41:42 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:42:30 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:42:30 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:42:30 [Dpdo] - debug - 执行方法other
+2015-10-08 05:42:30 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:44:26 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:44:26 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:44:26 [Dpdo] - debug - 执行方法other
+2015-10-08 05:44:26 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:45:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/upload.php
+2015-10-08 05:45:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:45:52 [Dpdo] - debug - 执行方法other
+2015-10-08 05:45:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:45:52 [Dpdo] - debug - 执行sqlINSERT INTO photo(`openid`,`pictureurl`,`username`,`phone`,`addtime`,`nickname`,`weixinheadurl`,`weixinaddress`)VALUES('deced9a6d37007d763f4d4ecddc3c9dd','http://testhooksbpo.5adian.com/meteor/upload/other/8ca22dc76da5dcd17574dc676f1e940b.jpg','朱兴卢','13120985528','2015-10-08 17:45:52','','','')
+2015-10-08 05:45:52 [Dpdo] - debug - 执行方法insert
+2015-10-08 05:45:52 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=c20ad4d76fe97759aa27a0c99bff6710&uid=56163b50baa92
+2015-10-08 05:45:52 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:45:52 [Dpdo] - debug - 执行方法other
+2015-10-08 05:45:52 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:45:52 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='c20ad4d76fe97759aa27a0c99bff6710' AND delete_flag='0'
+2015-10-08 05:45:52 [Dpdo] - debug - 执行方法find
+2015-10-08 05:49:04 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:49:04 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:49:04 [Dpdo] - debug - 执行方法other
+2015-10-08 05:49:04 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:50:46 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:50:46 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:50:46 [Dpdo] - debug - 执行方法other
+2015-10-08 05:50:46 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:51:01 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:51:01 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:51:01 [Dpdo] - debug - 执行方法other
+2015-10-08 05:51:01 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:51:18 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:51:18 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:51:18 [Dpdo] - debug - 执行方法other
+2015-10-08 05:51:18 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:51:26 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 05:51:26 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:51:26 [Dpdo] - debug - 执行方法other
+2015-10-08 05:51:26 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:59:48 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/upload.php
+2015-10-08 05:59:48 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:59:48 [Dpdo] - debug - 执行方法other
+2015-10-08 05:59:48 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:59:48 [Dpdo] - debug - 执行sqlINSERT INTO photo(`openid`,`pictureurl`,`username`,`phone`,`addtime`,`nickname`,`weixinheadurl`,`weixinaddress`)VALUES('deced9a6d37007d763f4d4ecddc3c9dd','http://testhooksbpo.5adian.com/meteor/upload/other/8e9d5dfff1f9365b49b89460dd83bf94.jpg','ddd','13120985528','2015-10-08 17:59:48','','','')
+2015-10-08 05:59:48 [Dpdo] - debug - 执行方法insert
+2015-10-08 05:59:48 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=c51ce410c124a10e0db5e4b97fc2af39&uid=56163e9459d1c
+2015-10-08 05:59:48 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 05:59:48 [Dpdo] - debug - 执行方法other
+2015-10-08 05:59:48 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 05:59:48 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='c51ce410c124a10e0db5e4b97fc2af39' AND delete_flag='0'
+2015-10-08 05:59:48 [Dpdo] - debug - 执行方法find
+2015-10-08 06:02:22 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=c51ce410c124a10e0db5e4b97fc2af39&uid=56163e9459d1c
+2015-10-08 06:02:22 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:02:22 [Dpdo] - debug - 执行方法other
+2015-10-08 06:02:22 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:02:22 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='c51ce410c124a10e0db5e4b97fc2af39' AND delete_flag='0'
+2015-10-08 06:02:22 [Dpdo] - debug - 执行方法find
+2015-10-08 06:02:34 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=c51ce410c124a10e0db5e4b97fc2af39&uid=56163e9459d1c
+2015-10-08 06:02:34 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:02:34 [Dpdo] - debug - 执行方法other
+2015-10-08 06:02:34 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:02:34 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='c51ce410c124a10e0db5e4b97fc2af39' AND delete_flag='0'
+2015-10-08 06:02:34 [Dpdo] - debug - 执行方法find
+2015-10-08 06:02:44 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=c51ce410c124a10e0db5e4b97fc2af39&uid=56163e9459d1c
+2015-10-08 06:02:44 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:02:44 [Dpdo] - debug - 执行方法other
+2015-10-08 06:02:44 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:02:44 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='c51ce410c124a10e0db5e4b97fc2af39' AND delete_flag='0'
+2015-10-08 06:02:44 [Dpdo] - debug - 执行方法find
+2015-10-08 06:02:44 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=c51ce410c124a10e0db5e4b97fc2af39&uid=56163e9459d1c
+2015-10-08 06:02:44 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:02:44 [Dpdo] - debug - 执行方法other
+2015-10-08 06:02:44 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:02:45 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='c51ce410c124a10e0db5e4b97fc2af39' AND delete_flag='0'
+2015-10-08 06:02:45 [Dpdo] - debug - 执行方法find
+2015-10-08 06:03:58 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/
+2015-10-08 06:03:58 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:03:58 [Dpdo] - debug - 执行方法other
+2015-10-08 06:03:58 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:04:36 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/upload.php
+2015-10-08 06:04:36 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:04:36 [Dpdo] - debug - 执行方法other
+2015-10-08 06:04:36 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:04:36 [Dpdo] - debug - 执行sqlINSERT INTO photo(`openid`,`pictureurl`,`username`,`phone`,`addtime`,`nickname`,`weixinheadurl`,`weixinaddress`)VALUES('deced9a6d37007d763f4d4ecddc3c9dd','http://192.168.1.114/src2/trunk/BPO/WhiteShirt/upload/other/c30a0542b0c1dcc44c390874c48584c6.jpg','朱','13120985528','2015-10-08 18:04:36','','','')
+2015-10-08 06:04:36 [Dpdo] - debug - 执行方法insert
+2015-10-08 06:04:37 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=aab3238922bcc25a6f606eb525ffdc56&uid=56163b50baa92
+2015-10-08 06:04:37 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:04:37 [Dpdo] - debug - 执行方法other
+2015-10-08 06:04:37 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:04:37 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='aab3238922bcc25a6f606eb525ffdc56' AND delete_flag='0'
+2015-10-08 06:04:37 [Dpdo] - debug - 执行方法find
+2015-10-08 06:43:42 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/index.php?type=wap
+2015-10-08 06:43:42 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:43:42 [Dpdo] - debug - 执行方法other
+2015-10-08 06:43:42 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:43:43 [getSignPackage] - debug - 加密用的url:http://192.168.1.114/src2/trunk/BPO/WhiteShirt/sharePage.php?id=c51ce410c124a10e0db5e4b97fc2af39&uid=56163e9459d1c
+2015-10-08 06:43:43 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-08 06:43:43 [Dpdo] - debug - 执行方法other
+2015-10-08 06:43:43 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-08 06:43:43 [Dpdo] - debug - 执行sqlSELECT *  FROM photo  WHERE md5(id)='c51ce410c124a10e0db5e4b97fc2af39' AND delete_flag='0'
+2015-10-08 06:43:43 [Dpdo] - debug - 执行方法find

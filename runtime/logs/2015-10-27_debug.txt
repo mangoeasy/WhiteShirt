@@ -1,0 +1,24 @@
+2015-10-27 03:27:22 [getSignPackage] - debug - 加密用的url:http://192.168.0.109:8888/
+2015-10-27 03:27:22 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-27 03:27:22 [Dpdo] - debug - 执行方法other
+2015-10-27 03:27:22 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-27 03:28:11 [getSignPackage] - debug - 加密用的url:http://192.168.0.109:8888/index.php
+2015-10-27 03:28:11 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-27 03:28:11 [Dpdo] - debug - 执行方法other
+2015-10-27 03:28:11 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-27 03:28:55 [getSignPackage] - debug - 加密用的url:http://192.168.0.109:8888/
+2015-10-27 03:28:55 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-27 03:28:55 [Dpdo] - debug - 执行方法other
+2015-10-27 03:28:55 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-27 03:30:07 [getSignPackage] - debug - 加密用的url:http://localhost:8888/index.php
+2015-10-27 03:30:07 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-27 03:30:07 [Dpdo] - debug - 执行方法other
+2015-10-27 03:30:07 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-27 03:30:10 [getSignPackage] - debug - 加密用的url:http://localhost:8888/index.php
+2015-10-27 03:30:10 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-27 03:30:10 [Dpdo] - debug - 执行方法other
+2015-10-27 03:30:10 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
+2015-10-27 03:40:59 [getSignPackage] - debug - 加密用的url:http://localhost:8888/
+2015-10-27 03:40:59 [Dpdo] - debug - 执行sqlset names utf8
+2015-10-27 03:40:59 [Dpdo] - debug - 执行方法other
+2015-10-27 03:40:59 [Dpdo] - debug - 连接字符串mysql:host=192.168.1.254;dbname=whiteshrIt;charset=utf8
